@@ -22,7 +22,7 @@ export default function Home() {
         </Link>
 
 
-        <Link href="/learn"> 
+        <Link href="/news"> 
         <h2>
           Welcome to <div href="https://nextjs.org">topic</div>
         </h2>        
